@@ -3,6 +3,7 @@ Vienna-styles
 
 My style for beautiful Vienna RSS Reader.
 
+![Screenshot example](http://dev.gordio.pp.ua/vienna-style0.png)
 ![Screenshot example](http://dev.gordio.pp.ua/vienna-style.png)
 
 Installation
