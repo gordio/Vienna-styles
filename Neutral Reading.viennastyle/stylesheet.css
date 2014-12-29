@@ -147,6 +147,14 @@ a:hover, a:active {
     overflow: auto;
 }
 
+.body code {
+    padding: 0.1em 0.2em;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(0, 0, 0, 0.04);
+    border-radius: 3px;
+}
+
 .body table {
     min-width: 100%;
     border: 1px solid #FFF;
