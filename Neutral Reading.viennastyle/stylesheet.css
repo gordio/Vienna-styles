@@ -9,7 +9,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* common */
 body {
-	background-color: #F2F2F2;
+    background-color: #F2F2F2;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -34,11 +34,11 @@ a:hover, a:active {
     position: fixed;
     top: 0;
     width: 100%;
-	padding: 0.17em 0.5em 0.16em;
+    padding: 0.17em 0.5em 0.16em;
     font-size: 0.74em;
     color: #111;
     background: #FAFBFA;
-	border-bottom: 1px solid #AAA;
+    border-bottom: 1px solid #AAA;
     text-align: right;
 
     box-sizing: border-box;
@@ -51,7 +51,7 @@ a:hover, a:active {
 }
 
 .info .date {
-	float: left;
+    float: left;
 }
 
 /* title, body */
@@ -104,9 +104,9 @@ a:hover, a:active {
 
 .body img {
     display: block;
-	margin: 1em auto;
+    margin: 1em auto;
     padding: 0;
-	max-width: 100%;
+    max-width: 100%;
     height: auto;
     cursor: default;
 }
@@ -125,8 +125,8 @@ a:hover, a:active {
 }
 
 .body p {
-	display: block;
-	clear: both;
+    display: block;
+    clear: both;
 }
 
 
@@ -139,8 +139,8 @@ a:hover, a:active {
 }
 
 .body blockquote {
-	padding-left: 0.5em;
-	font-style: italic;
+    padding-left: 0.5em;
+    font-style: italic;
     border-left: 0.5em solid #AAA;
 }
 
