@@ -139,9 +139,21 @@ a:hover, a:active {
 }
 
 .body blockquote {
-    padding-left: 0.5em;
+    padding: 0 0.5em;
     font-style: italic;
     border-left: 0.5em solid #AAA;
+}
+
+.body blockquote > p + cite {
+    margin-top: -1em;
+}
+
+.body blockquote > cite {
+    display: block;
+    text-align: right;
+}
+.body blockquote > cite:before {
+    content: '— ';
 }
 
 .body code {
