@@ -117,6 +117,13 @@ a:hover, a:active {
     margin: 0 0.5em 0.5em 0;
 }
 
+.body iframe {
+    display: block;
+    margin: 1em auto;
+    padding: 0;
+    max-width: 100%;
+}
+
 .body p {
 	display: block;
 	clear: both;
