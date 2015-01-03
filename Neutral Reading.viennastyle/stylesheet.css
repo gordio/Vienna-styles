@@ -132,9 +132,9 @@ a:hover, a:active {
 }
 
 .body blockquote {
-	padding-left: 1em;
+	padding-left: 0.5em;
 	font-style: italic;
-    border-left: 0.125em solid #AAA;
+    border-left: 0.5em solid #AAA;
 }
 
 .body code {
